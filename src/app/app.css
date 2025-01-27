@@ -1,0 +1,13 @@
+:root {
+  --color-violet-dark: #8977f3;
+  --color-gray-100: #f0f0f0;
+  --color-gray-200: #f3f3f3;
+  --color-gray-500: #d1d1d1;
+  --color-gray-600: #cccccc;
+  --color-gray-900: #1c1c1c;
+}
+
+main {
+  scrollbar-color: var(--color-gray-500) transparent;
+  scrollbar-width: thin;
+}
