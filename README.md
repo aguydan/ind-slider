@@ -22,4 +22,4 @@ npm run build
 
 ## Деплой на Vercel
 
-[Нажмите здесь](ind-slider-five.vercel.app)
+[Нажмите здесь](https://ind-slider-five.vercel.app)
