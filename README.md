@@ -2,7 +2,7 @@
 
 **На десктопе его можно передвигать зажатием левой кнопки мыши.**
 
-[![screenshot.png](https://i.postimg.cc/P5BWHmbk/screenshot.png)](https://postimg.cc/XrkGcBD2)
+![screenshot](https://i.ibb.co/gD1Dfs4/screenshot.png)
 
 ## Самостоятельный запуск
 
